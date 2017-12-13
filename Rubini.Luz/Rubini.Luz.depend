@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1513167231 source:d:\rubini.luz\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1513167228 d:\rubini.luz\arraylist.h
+
+1513172714 source:d:\rubini.luz\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1513172701 d:\rubini.luz\funciones.h
+	"ArrayList.h"
+
+1513172287 source:d:\rubini.luz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
